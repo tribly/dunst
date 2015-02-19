@@ -245,4 +245,4 @@
 # vim: ft=cfg
 [i3blocks]
     summary = "*"
-    script = /home/heinz/scripts/notify
+    script = /home/heinz/configs/i3/notify
