@@ -1,5 +1,5 @@
 [global]
-    font = Monospace 8
+    font = Envy Code R 8
 
     # Allow a small subset of html markup:
     #   <b>bold</b>
@@ -245,4 +245,4 @@
 # vim: ft=cfg
 [i3blocks]
     summary = "*"
-    script = /home/heinz/configs/i3/notify
+    script = /home/heinz/configs/i3/blocks/notify
